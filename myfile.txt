@@ -5,3 +5,5 @@ pull リモートリポジトリの内容を取得する
 branch 4です
 branch 5です
 sakuravps issue 1
+issue 1
+issue 1 - 2
